@@ -1,0 +1,41 @@
+/* Estilo específico para a página "Sobre Nós" */
+.about-hero {
+    background-image: url('https://images.unsplash.com/photo-1516880711640-52f4aa9af46b'); /* Substitua pela URL desejada */
+}
+
+main {
+    padding: 40px;
+    background-color: #fff;
+    color: #333;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.equipe-membro {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+.equipe-membro h3 {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.equipe-membro p {
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+}
